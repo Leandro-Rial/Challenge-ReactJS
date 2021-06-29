@@ -6,6 +6,10 @@ import Trash from "../../../assets/trash-alt-regular-24.png";
 
 const Home = (props) => {
 
+  const mostrarAlera = () => {
+    alert("Do you want to delete the project")
+  }
+
   const [searchTerm, setSearchTerm] = useState("");
 
   return (
@@ -70,7 +74,7 @@ const Home = (props) => {
                               Edit
                             </button>
                           </Link>
-                          <button onClick={() => props.deleteProject(user.id)}>
+                          <button onClick={() => mostrarAlera(props.deleteProject(user.id))}>
                             <img src={Trash} alt="" />
                             Delete
                           </button>
