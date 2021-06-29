@@ -1,0 +1,55 @@
+{
+  "users": [
+    {
+      "id": 654,
+      "projectInfo": "Landing page",
+      "createdAt": "Creation date:  09/09/2020 10:30 am",
+      "description": "Some Description",
+      "ProjectManager": "Walt Cosani",
+      "Assignedto": "Ignacio Truffa",
+      "Status": "Enabled"
+    },
+    {
+      "id": 98465,
+      "projectInfo": "E-Commerce Shop",
+      "createdAt": "Creation date:  09/09/2020 10:30 am",
+      "description": "Some Description",
+      "ProjectManager": "Walt Cosani",
+      "Assignedto": "Ignacio Truffa",
+      "Status": "Enabled"
+    },
+    {
+      "id": 21684,
+      "projectInfo": "CRM Linkroom",
+      "createdAt": "Creation date:  09/09/2020 10:30 am",
+      "description": "Some Description",
+      "ProjectManager": "Walt Cosani",
+      "Assignedto": "Ignacio Truffa",
+      "Status": "Enabled"
+    },
+    {
+      "id": "b91c26f3-2c31-40c8-8740-8c958adff789",
+      "projectInfo": "Website",
+      "description": "Website description",
+      "ProjectManager": "Walt Cosani",
+      "Assignedto": "Ignacio Truffa",
+      "Status": "Enabled"
+    },
+    {
+      "id": "a82069d6-0320-4d94-8e91-80d3b79fc740",
+      "projectInfo": "Node js Project",
+      "description": "Description",
+      "ProjectManager": "Walt Cosani",
+      "Assignedto": "Ignacio Truffa",
+      "Status": "Enabled"
+    },
+    {
+      "id": "6450798b-a886-4a6d-9784-43a9ae89bb3a",
+      "projectInfo": "React Native Project",
+      "description": "Description",
+      "ProjectManager": "Walt Cosani",
+      "Assignedto": "Ignacio Truffa",
+      "Status": "Enabled"
+    }
+  ]
+}

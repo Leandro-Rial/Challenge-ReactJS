@@ -1,0 +1,25 @@
+nav {
+  position: relative;
+  display: flex;
+  align-items: center;
+  height: 56px;
+  border-bottom: 1px solid #d9d9d9;
+  padding: 0 5%;
+  background: #fff;
+
+  a {
+    font-family: 'Inter', sans-serif;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #bdbdbd;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 32px;
+  }
+  
+  a:hover {
+    text-decoration: none;
+    color: #bdbdbd;
+  }
+}
